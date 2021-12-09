@@ -1,0 +1,7 @@
+{
+  "name": "angular-qiankun-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

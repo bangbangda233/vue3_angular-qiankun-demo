@@ -1,0 +1,7 @@
+{
+  "name": "ionic-qiankun-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

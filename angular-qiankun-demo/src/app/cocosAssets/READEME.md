@@ -1,0 +1,12 @@
+这里存放的是cocos打包出来的游戏资源文件
+```
+|--res
+|--src
+   |--cocos2d-js-min.1c382.js
+   |--index.html
+   |--main.40753.js
+   |--splash.cdabb.png
+   |--style-desktop.4b104.css
+   |--style-mobile.48a1e.css
+```
+在需要引入的地方引入项目资源，引用方式按照此文件中的index.html

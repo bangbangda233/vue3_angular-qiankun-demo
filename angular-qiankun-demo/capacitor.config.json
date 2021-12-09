@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "angular-qiankun-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
