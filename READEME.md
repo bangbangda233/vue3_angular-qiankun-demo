@@ -1,4 +1,4 @@
-#vue为主应用angular为子应用CocosCreator内嵌web的微前端qiankun实践
+# vue为主应用angular为子应用CocosCreator内嵌web的微前端qiankun实践
 
 主应用使用的是vue3
 
