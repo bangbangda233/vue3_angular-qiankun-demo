@@ -16,6 +16,15 @@
 - [CocosCreator](http://docs.cocos.com/) - CocosCreator
 - [qiankun](https://qiankun.umijs.org/) - qiankun 基本使用
 
+##常见问题
+* ionic路由未绑定key值，导致页面重定向混乱<ion-router-outlet :key="$route.fullPath" />；
+* 子应用custom-webpack.config.js中的jsonpFunction更新为chunkLoadingGlobal，详情可查看webpack官方文档；
+* angular13运行ts报错，"typescript": "~4.4.4"改为"typescript": "~4.3.5"
+* 子应用内嵌cocos文件资源文件打包尽量配置在一级目录；
+* 子应用和子应用同为静态资源时，入口文件entry需指向index.html;
+* cocos资源文件读取需加上一级目录名，如本项目的/app-angular;
+* 主应用whiteWords非必要，我是按照自己项目需要添加的。
+
 ## 安装使用
 （进入子项目）
 # 安装依赖
