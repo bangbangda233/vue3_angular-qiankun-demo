@@ -16,7 +16,7 @@
 - [CocosCreator](http://docs.cocos.com/) - CocosCreator
 - [qiankun](https://qiankun.umijs.org/) - qiankun 基本使用
 
-##常见问题
+## 常见问题
 * ionic路由未绑定key值，导致页面重定向混乱<ion-router-outlet :key="$route.fullPath" />；
 * 子应用custom-webpack.config.js中的jsonpFunction更新为chunkLoadingGlobal，详情可查看webpack官方文档；
 * angular13运行ts报错，"typescript": "~4.4.4"改为"typescript": "~4.3.5"
